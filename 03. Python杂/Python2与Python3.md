@@ -1,6 +1,7 @@
 # Python2与Python3
 
 - Python2中Python3中的print()
+
 ```python
 # Python2
 print "hello" # 不用()也能输出
