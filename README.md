@@ -66,7 +66,7 @@
 
 10. 模块
 
-[知识点汇总](Static/images/面向对象.png)
+[知识点汇总](Static/images/面向对象.pdf)
 
 <br>
 <br>
@@ -144,7 +144,7 @@
 
 ### 2.6 MiniWeb-code(上述知识全应用)
 
-[知识点汇总](Static/images/Python高级.png)
+[知识点汇总](Static/images/Python高级.pdf)
 
 <br>
 <br>
