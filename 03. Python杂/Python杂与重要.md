@@ -312,6 +312,8 @@ a = 1 b = 2 c = 3 d = 88 kw = {'x': '#'}
     '1,234,567,890'
     ```
     
+    > [格式化说明符](https://docs.python.org/3/library/string.html#formatspec)
+    
 <br>
 
 - 工厂函数

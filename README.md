@@ -170,7 +170,7 @@
 
 ## 4. Others
 
-1. Git-Learning
+1. Git-Learning([梳理](Static/images/Git.pdf))
 
 2. 正则表达式
 
