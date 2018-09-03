@@ -144,6 +144,8 @@
 
 ### 2.6 MiniWeb-code(上述知识全应用)
 
+[code](Static/code/mini_web)
+
 [知识点汇总](Static/images/Python高级.pdf)
 
 <br>
