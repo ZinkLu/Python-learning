@@ -1,6 +1,7 @@
 # Python杂，但是重要！
 
 - 用于测试时候的打印，用`,`逗号分隔打印内容
+
     ```python
     a = 10
     print("a的值", a)
@@ -41,6 +42,7 @@
 <br>
 
 - 数字逻辑运算符
+
     ```python
     # 只有0是False，其他都是True
     a = 0
@@ -51,7 +53,7 @@
     a and b -> 0
     a and c -> 0
     b and c -> 3
-    c and a -> 1
+    c and b -> 1
     
     # 都为0 ，or 才0，否则等于非0数字，或者在or之前的数字
     a or b -> 1
@@ -64,7 +66,15 @@
 
 - 有关于True和False
 
-  在Python中，`0`、`0.0`、`空字符串""`被认为是Flase，其他值被认为是True
+  在Python中，`0`、`0.0`、`空字符串""`、`None`被认为是Flase，其他值被认为是True
+  
+  ```python
+  >>> None or ""
+  ""
+  
+  >>> "" or None
+  # 得到的是None 所以没有输出 
+  ```
 
 <br>
 

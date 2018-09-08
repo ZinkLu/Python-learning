@@ -186,4 +186,6 @@
 
 1. html和css
 
-2. JavaScript入门.md
+2. JavaScript入门
+
+3. JQuery入门
