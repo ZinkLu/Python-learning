@@ -186,4 +186,4 @@
 
 2. [JavaScript入门](05.前端简单学习/2. JavaScript入门.md)
 
-3. [JQuery入门](05.前端简单学习/3. JQuery入门.md)README.md
+3. [JQuery入门](05.前端简单学习/3. JQuery入门.md)
