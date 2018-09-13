@@ -5,7 +5,7 @@
 
 ### 1.1 Pyhon基础
 
-0. [认识Python](01. Python初级/1. Python基础/0.认识Python)
+0. [认识Python](01. Python初级/1. Python基础/0.认识Python.md)
 
 1. [第一个Python程序](01. Python初级/1. Python基础/1.第一个Python程序.md)
 
