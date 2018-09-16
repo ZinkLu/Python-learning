@@ -62,7 +62,7 @@
 10. [模块](01. Python初级/2. Python面向对象/10.模块.md)
 
 
-<a href="images/面向对象.pdf" target="_blank">知识点总结</a>
+<a href="Static/images/面向对象.pdf" target="_blank">知识点总结</a>
 
 <br>
 <br>
@@ -139,11 +139,11 @@
 
 ### 2.6 MiniWeb-code(上述知识全应用)
 
-<a href='/code/mini_web/mini_web.py'> mini_web下载</a>
+<a href='Static/code/mini_web/mini_web.py'> mini_web下载</a>
 
-<a href='/code/mini_web/mini_web.py'> my_server下载</a>
+<a href='Static/code/mini_web/mini_web.py'> my_server下载</a>
 
-<a href="/images/Python高级.pdf" target="_blank">知识点总结</a>
+<a href="Static/images/Python高级.pdf" target="_blank">知识点总结</a>
 
 <br>
 <br>
@@ -170,7 +170,7 @@
 
 ## 4. Others
 
-1. [Git-learning](04. Other/4.1 Git-learning.md) <a href="/images/Git.pdf" target="_blank">梳理</a>
+1. [Git-learning](04. Other/4.1 Git-learning.md) <a href="Static/images/Git.pdf" target="_blank">梳理</a>
 
 2. [re模块和正则表达式](04. Other/4.2 re模块和正则表达式.md)
 
@@ -189,3 +189,15 @@
 3. [JQuery入门](05.前端简单学习/3. JQuery入门.md)
 
 4. [Vue入门](05.前端简单学习/4. vue入门.md)
+
+<br>
+<br>
+<br>
+
+## 6. Web框架学习
+
+### 6.1 Flask
+
+> 之前自学的<a href='Static/images/小记.pdf'>小记</a>
+
+1. [Flask视图及路由](06.Web框架学习/01. Flask/1. Flask视图及路由.md)
