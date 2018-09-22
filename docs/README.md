@@ -201,3 +201,9 @@
 > 之前自学的<a href='Static/images/小记.pdf'>小记</a>
 
 1. [Flask视图及路由](06.Web框架学习/01. Flask/1. Flask视图及路由.md)
+
+2. [Flask模板](06.Web框架学习/01. Flask/2. Flask模板.md)
+
+3. [ORM](06.Web框架学习/01. Flask/3. ORM.md)
+
+4. [Redis](06.Web框架学习/01. Flask/4. Redis.md)
