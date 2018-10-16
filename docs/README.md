@@ -207,3 +207,7 @@
 3. [ORM](06.Web框架学习/01. Flask/3. ORM.md)
 
 4. [Redis](06.Web框架学习/01. Flask/4. Redis.md)
+
+### 6.2 Django
+
+1. [Django框架的简单学习](06.Web框架学习/02. Django/1. Django框架.md)
