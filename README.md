@@ -218,3 +218,7 @@
 1. [Django框架的简单学习](06.Web框架学习/02. Django/1. Django框架.md)
 
 2. [DRF框架](06.Web框架学习/02. Django/2. DRF框架.md)
+
+## 7. OpenERP - Odoo
+
+1. [OpenERP-7.0简单整理](07.OpenERP/OE.md)
