@@ -2,7 +2,7 @@
 
 ## 尝试理解FLASK源码系列:
 	
-1. [尝试理解Flask源码之WSGI协议](blog/尝试理解Flask源码/1. 尝试理解Flask源码之WSGI协议.md)
+1. [尝试理解Flask源码之WSGI协议](https://zhuanlan.zhihu.com/p/46983059)
 
 # code-learning
 
